@@ -1,5 +1,5 @@
 # IndecisionApp
-Practicing React.
+https://react-course-indecisionapp.herokuapp.com/
 
 ## Description
 This app is useful to help us to choose a decision when we have a lots of options.
